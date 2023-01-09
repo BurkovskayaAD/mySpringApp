@@ -1,1 +1,1 @@
-# springApp
+# mySpringApp
